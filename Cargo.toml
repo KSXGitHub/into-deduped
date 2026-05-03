@@ -1,0 +1,23 @@
+[package]
+name = "into-deduped"
+description = "Utility methods and functions that take an owned Vec and return a deduplicated owned Vec"
+version = "0.0.0"
+authors = ["khai96_ <hvksmr1996@gmail.com>"]
+edition = "2024"
+readme = "README.md"
+license = "MIT"
+documentation = "https://docs.rs/into-deduped"
+repository = "https://github.com/KSXGitHub/into-deduped.git"
+keywords = [
+  "trait",
+  "fp",
+  "utility",
+  "extension",
+]
+categories = ["rust-patterns"]
+include = [
+  "/src",
+  "/Cargo.toml",
+  "/README.md",
+  "/LICENSE.md",
+]
